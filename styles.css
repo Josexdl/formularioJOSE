@@ -92,3 +92,11 @@ ul {
 li {
     margin-bottom: 10px; /* Espaçamento entre os itens da lista */
 }
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    display: block;
+}
+
